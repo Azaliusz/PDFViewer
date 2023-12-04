@@ -34,6 +34,15 @@
     <None Update="Assets\build\pdf.worker.mjs.map">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="Assets\index.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\script.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\style.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="PDFs\Lagrange.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
